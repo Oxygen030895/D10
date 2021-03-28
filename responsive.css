@@ -1,0 +1,26 @@
+/* Tambahkan breakpoint max-width: 1000px */
+@media (max-width: 1000px) {
+	.foot-wrapper{
+	width: 300%;
+}
+
+
+}
+
+/* Tambahkan breakpoint max-width: 670px */
+@media ( max-width: 670px) {
+.header{
+	width: 300%;
+}	
+.top-wrapper{
+	width: 300%;
+}	
+.foot-wrapper{
+	width: 300%;
+}
+.footer{
+	width: 300%;
+}
+
+  
+}
